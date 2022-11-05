@@ -10,6 +10,8 @@ body {
 }
 
 .header {
+	display: block;
+	margin: 0 auto;
 	text-align: center;
 	background-color: #4A4F56;
 	height: 82px;

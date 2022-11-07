@@ -82,6 +82,10 @@ input[type="checkbox"]:checked+span {
 	font-size: 12px;
 }
 
+.small:checked {
+	text-decoration: line-through;
+}
+
 .small::before {
 	content: "(";
 }
